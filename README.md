@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# FeiFei Li Biography Site
 
-You can use the [editor on GitHub](https://github.com/TheClassicTechno/theclassictechno.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This project is a biography website I made for the MCWT Michigan Web Design Competition (won 2nd place) dedicated to Dr. Fei-Fei Li, a renowned computer scientist in artificial intelligence and computer vision (I also took her computer vision class CS231N:)). The site presents her life, achievements, and impact in the field, designed as a standalone, multi-page site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
 
-### Markdown
+- **Biographical Overview:** Provides a structured presentation of Dr. Fei-Fei Li’s early life, education, and scientific contributions.
+- **Visual Content:** Includes photos and images (such as AI4ALL events, childhood, and professional appearances) to support major themes.
+- **Multi-page Navigation:** Contains several dedicated pages styled with custom CSS:
+  - `index.html` – Home/Introduction
+  - `aboutfeifei.html` – Background and early life
+  - `feifeiimpact.html` – Scientific and social impact
+  - `feifeiworks.html` – Major projects and publications
+  - `resources.html` – Additional links and resources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Common Technologies
 
-```markdown
-Syntax highlighted code block
+- **Languages:** HTML and CSS (primary)
+- **Assets:** Various image files used for illustrations and backgrounds.
 
-# Header 1
-## Header 2
-### Header 3
+## Key Files
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheClassicTechno/theclassictechno.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- `index.html` – Main entry page with navigation links.
+- `aboutfeifei.html`, `feifeiimpact.html`, `feifeiworks.html`, `resources.html` – Content pages.
+- `.css` files like `aboutfeifei.css`, `feifeiimpact.css`, `feifeili.css`, etc. – Custom styles for each page.
+- Multiple `.jpg` and `.png` image assets.
